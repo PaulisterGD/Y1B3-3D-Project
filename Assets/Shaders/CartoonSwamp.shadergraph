@@ -510,7 +510,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "e00": 1.0,
-        "e01": 0.5,
+        "e01": 0.20000000298023225,
         "e02": 1.0,
         "e03": 2.0,
         "e10": 2.0,
@@ -1283,7 +1283,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 7.0,
+    "m_Value": 2.5,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -2065,7 +2065,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 3.0,
+    "m_Value": 2.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -2137,7 +2137,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Alpha",
     "m_StageCapability": 2,
-    "m_Value": 0.800000011920929,
+    "m_Value": 0.949999988079071,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -2802,7 +2802,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 1.0,
+    "m_Value": 0.4000000059604645,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3263,9 +3263,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.4292452931404114,
-        "g": 0.9256829023361206,
-        "b": 1.0,
+        "r": 0.5098039507865906,
+        "g": 0.5490196347236633,
+        "b": 0.3176470696926117,
         "a": 0.0
     },
     "m_ColorMode": 0
@@ -3577,9 +3577,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.13679248094558717,
-        "g": 0.623619019985199,
-        "b": 1.0,
+        "r": 0.16418486833572389,
+        "g": 0.17924529314041139,
+        "b": 0.09892310947179795,
         "a": 0.0
     },
     "m_ColorMode": 0
